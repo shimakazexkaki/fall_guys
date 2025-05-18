@@ -14,5 +14,5 @@ https://www.kaggle.com/datasets/uttejkumarkandagatla/fall-detection-dataset?reso
 #### mediapipe
 https://github.com/google-ai-edge/mediapipe?tab=readme-ov-file
 
-在做mediapipe label標記的時候要先對圖片做預處理，改成跟相機拍下來同個像素大小。
+在做mediapipe label標記的時候要先對圖片做預處理，改成跟相機拍下來同個解析度。
 鏡頭調整成640*480。
