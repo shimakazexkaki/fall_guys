@@ -5,7 +5,7 @@ pip3 install mediapipe --break-system-packages
 pip3 install scikit-learn --break-system-packages  
   
   
-### 在自己的電腦訓練svm
+### 在自己的電腦訓練svm(不要裝在樹梅派上)
 pip install mediapipe opencv-python scikit-learn matplotlib pandas  
   
 #### 跌倒判斷訓練資料(kaggle)  
